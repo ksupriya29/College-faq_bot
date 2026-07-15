@@ -408,3 +408,11 @@ python governance/deepeval/bias_pairs.py
 =======
 # college-faq-chatbot
 
+## 🚀 Live Demo
+
+**Live App:** https://ksupriya29-college-faq-bot-app-l18wg7.streamlit.app/
+
+## 📂 GitHub Repository
+
+https://github.com/ksupriya29/College-faq_bot
+
